@@ -84,9 +84,10 @@ img {
   }
   .container {
     padding: 15px;
+    width: 100%;
   }
   .row {
-    width: 100%;
+    width: 90%;
     margin: 0 auto;
   }
   img {
@@ -114,7 +115,7 @@ img {
     padding: 15px;
   }
   .row {
-    width: 70%;
+    width: 90%;
     margin:0 auto;
   }
   img {
